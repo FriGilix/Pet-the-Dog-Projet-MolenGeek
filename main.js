@@ -1,0 +1,1 @@
+let love = document.get
