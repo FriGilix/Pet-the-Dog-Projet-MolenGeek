@@ -105,3 +105,4 @@ Si la variable LOVE ou FOOD tombe à 0, il s'agit d'une fin de partie. il faudra
 - - retire la classe 'hide' de la balise divGameOver
 - - intérompe tout les intervalles stocké dans le tableau BUDDY_LIST
 
+# Pet-the-Dog-Projet-MolenGeek
